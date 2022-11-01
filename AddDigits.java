@@ -1,7 +1,7 @@
 public class AddDigits
  {
 public static void main(String[] args) {
-    System.out.println("Hello World" +addDigits(123456789));
+    System.out.println("Sum of Digits is = " +addDigits(123456789));
 }    
 static int addDigits(int n ){
     int sum;

@@ -1,0 +1,20 @@
+class PowerOfNumber{
+   public static void main(String args[]){
+
+    }
+
+    //n = number and p = power
+    static getpower(int n,int p){
+        int power;
+        if(n = 0){
+            return 0;
+        }
+
+        if(n = 1){
+            return n;
+        }
+
+        power = n * getpower(n,p-1);
+        return power;
+    }
+}
