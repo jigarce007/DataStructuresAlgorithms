@@ -24,7 +24,6 @@ n = 6 and m = 0 -->Reminder = 0
   
 So here "6" is GCD
 
-o
 */
 
 public class GCDNumber
