@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FindingANumberInArray",
+            "request": "launch",
+            "mainClass": "InterViewQuestions.FindingANumberInArray",
+            "projectName": "DataStructuresAlgorithms_34ea8d3e"
+        },
+        {
+            "type": "java",
             "name": "Launch PairsToSum",
             "request": "launch",
             "mainClass": "InterViewQuestions.PairsToSum",

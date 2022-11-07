@@ -41,4 +41,7 @@ static void missingNumber(int[] ary,int n){
    
     System.out.println("Missing number is : "+(sum-sumOfAry));
 }
+public int searchInArray(int[] intAry, int i) {
+    return 0;
+}
 }
