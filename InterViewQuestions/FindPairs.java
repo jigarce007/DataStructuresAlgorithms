@@ -8,7 +8,7 @@ INPUT
 int[] intArray = {1,3,2,6}
 
 Problem Explaination : From the given integer array we need to make pairs of elements from the array and retuns
-a resultant element or we can print it in console.
+pairs.
 
 As stated in the below output here is the complete set of pairs from the given number of elements 
 from the input array of integer.

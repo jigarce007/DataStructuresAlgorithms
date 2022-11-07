@@ -11,11 +11,11 @@ OUTPUT
 
                                             RECURSION LOGIC
                                         ======================
-                                *P will starts with 4 ---> p-1
-                                * 4 x 2(4) = 8
-                                * 8 x 2(3) = 16
-                                * 16 x 2(2) = 32
-                                * 32 x 2(1) = 64 
+                                *P will starts with 2 ---> p-1
+                                * 2 x 2(4) = 4
+                                * 4 x 2(3) = 8
+                                * 8 x 2(2) = 16
+                                * 16 x 2(1) = 32 
         
 */
 
