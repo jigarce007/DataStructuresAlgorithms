@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UniqOrDuplicate",
+            "request": "launch",
+            "mainClass": "InterViewQuestions.UniqOrDuplicate",
+            "projectName": "DataStructuresAlgorithms_34ea8d3e"
+        },
+        {
+            "type": "java",
             "name": "Launch FindingANumberInArray",
             "request": "launch",
             "mainClass": "InterViewQuestions.FindingANumberInArray",
